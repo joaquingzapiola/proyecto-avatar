@@ -71,7 +71,7 @@ nav ul li a{
    padding-top: 10px;
    padding-bottom: 10px;
    border-radius: 5px;
-   font-family:'Toruksc', sans-serif;
+   font-family:'Toruksc', sans-serif !important;
 
 }
 
